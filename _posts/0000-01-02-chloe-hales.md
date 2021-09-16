@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Chloe's slide!"
 ---
-Made by Chloe Hales
+This is my awesome slide
 Use the left arrow to go back!
